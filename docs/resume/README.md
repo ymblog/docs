@@ -2,7 +2,7 @@
 ## vue项目
 技术栈：基于vue-cli搭建vuejs全家桶
 + [水务局活动项目(请在微信端访问)](http://cdnvideo.dashenw.cn/river/h5-water/dist/index.html)
-+ [简易后台系统](https://ymblog.github.io/vue-admin-template/dist/)[项目代码仓库](https://github.com/ymblog/vue-admin-template)
++ [简易后台系统](http://lktop.coding.me/project/vue-admin/dist)[项目代码仓库](https://github.com/ymblog/vue-admin-template)
 
 ## jquery插件库
 自己封装的6个插件，其实包括有:轮播、移动端图片预览压缩上传、图片的懒加载、弹窗、表单验证、倒计时。使用require引用
