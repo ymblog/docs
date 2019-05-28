@@ -11,9 +11,8 @@ module.exports = {
     		{text:'首页',link:'/'},
             {text:'工作',link:'/docs/work/'},
     		{text:'项目',link:'/docs/resume/'},
-            {text:'博客',link:'https://github.com/ymblog/blog'},
-    		{text:'GitHub',link:'https://github.com/ymblog'},
-            {text:'segmentfault',link:'https://segmentfault.com/u/ymup'},
+            {text:'博客',link:'https://segmentfault.com/u/ymup'},
+    		{text:'GitHub',link:'https://github.com/ymblog'}
     	],
         sidebar:{
             '/docs/blog/javascript/':[

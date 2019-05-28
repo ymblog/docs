@@ -1,4 +1,4 @@
-# 自己开发的插件
+# 自研插件
 此文档的目的为：维护开发可维护且高效插件库和一些常用的js代码
 
 [代码下载地址](https://github.com/ymblog/plugin)、[预览插件地址](https://ymblog.github.io/plugin/)
